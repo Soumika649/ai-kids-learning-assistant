@@ -198,6 +198,5 @@ Contributions are welcome! To contribute:
 - [MongoDB](https://www.mongodb.com) - Database
 
 
-For issues, questions, or suggestions, please open an issue on GitHub.
 
 
